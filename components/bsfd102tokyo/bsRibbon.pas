@@ -22,8 +22,7 @@ interface
 
 uses
   Windows, Messages, SysUtils, Classes, Graphics, Controls, Forms, Dialogs, ExtCtrls,
-  bsSkinCtrls, bsUtils, bsSkinData, ImgList, bsSkinMenus, bsSkinHint,
-  System.Types, System.UITypes;
+  bsSkinCtrls, bsUtils, bsSkinData, ImgList, bsSkinMenus, bsSkinHint;
 
 type
 

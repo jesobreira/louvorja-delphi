@@ -22,7 +22,7 @@ interface
 uses
   Windows, SysUtils, Classes, Controls, ImgList, Forms, Messages,
   Graphics, StdCtrls, ActnList, bsSkinData, bsSkinCtrls, ExtCtrls,
-  bsUtils, System.Types, System.UITypes;
+  bsUtils;
 
 const
   crDragCopy = TCursor(-23); { New cursor, with a plus for copying }

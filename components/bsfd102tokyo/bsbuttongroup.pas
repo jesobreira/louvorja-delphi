@@ -21,7 +21,7 @@ interface
 uses
   Windows, SysUtils, Classes, Controls, ImgList, Forms, Messages,
   Graphics, StdCtrls, bsCategoryButtons, bsSkinCtrls, bsSkinData, ExtCtrls,
-  bsUtils, System.Types, System.UITypes;
+  bsUtils;
 
 type
   TbsGrpButtonItem = class;

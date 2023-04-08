@@ -19,8 +19,7 @@ unit bsCalendar;
 interface
 
 uses Windows, SysUtils, Messages, Classes, Graphics, Controls, Forms,
-     Buttons, bsSkinCtrls, bsSkinData, ExtCtrls, bsSkinMenus, Menus,
-     System.Types, System.UITypes;
+     Buttons, bsSkinCtrls, bsSkinData, ExtCtrls, bsSkinMenus, Menus;
 
 type
   TbsDaysOfWeek = (Sun, Mon, Tue, Wed, Thu, Fri, Sat);

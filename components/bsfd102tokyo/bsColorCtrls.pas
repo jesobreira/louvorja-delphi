@@ -20,7 +20,7 @@ interface
 
 uses Windows, SysUtils, Messages, Classes, Graphics, Controls, Forms,
      BusinessSkinForm, bsSkinData, bsSkinCtrls, bsSkinBoxCtrls, Dialogs,
-     StdCtrls, ExtCtrls, bsEffects, bsSkinMenus, ImgList, System.Types;
+     StdCtrls, ExtCtrls, bsEffects, bsSkinMenus, ImgList;
 
 type
 
