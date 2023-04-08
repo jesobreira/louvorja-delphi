@@ -18,7 +18,7 @@ Alguns dos recursos são:
 
 Você vai precisar de:
 
-- Delphi RAD Studio 10.2
+- Delphi RAD Studio 10.2 ([baixe aqui](https://altd.embarcadero.com/download/radstudio/10.2/delphicbuilder10_2.iso))
 - Uma versão instalada (e preferencialmente sincronizada) do LouvorJA ([baixe aqui](https://louvorja.com.br/download/))
 - Um computador com Windows
 
